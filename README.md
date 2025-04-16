@@ -1,4 +1,4 @@
-# SC2207_-Introduction-to-Database
+# SC2207_-Introduction-to-Databases
 Project Link : https://drive.google.com/drive/folders/1mdOFXaFwoREt9Xk6op5fHe7XOsj76sPT
 
 
